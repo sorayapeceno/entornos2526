@@ -5,7 +5,7 @@ pabloharo0 10:20 ------------ Pablo OK Merge rama ----
 LucasOlias15 10:23 ------- Lucas OK      OOOO  
 abel1daw 10:40       
 Javier2207  10:25   
-<<<<<<< HEAD   
+<<<<<<< HEAD     
 Hugoorgaz 10:28     
 emolval 10:37
 =======
