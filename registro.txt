@@ -1,3 +1,14 @@
 Registra tu nombre de usuario y la hora
-=======================================================================
-Soraya 01:47
+=======================================================================    
+Soraya 01:47 ----------@@@@@@@@@@@@@@@@@@@@@@99999---  
+pabloharo0 10:20 ------------ Pablo OK Merge rama ----     
+LucasOlias15 10:23 ------- Lucas OK      OOOO     
+abel1daw 10:40       
+Javier2207  10:25     
+<<<<<<< HEAD     
+Hugoorgaz 10:28     
+emolval 10:37   
+=======
+Hugoorgaz 10:28      
+>>>>>>> a4c9a729a658bdf76535266e0506b84129090449
+albagarrido 10:48
